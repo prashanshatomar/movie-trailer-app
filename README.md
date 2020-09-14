@@ -12,6 +12,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+### For live demo please click on the link below:
+https://movie-clone-66b10.web.app/
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.<br />
